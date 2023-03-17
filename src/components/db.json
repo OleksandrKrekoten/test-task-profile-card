@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "user": "john",
+      "tweets": "777",
+      "followers": "150000",
+      "avatar": "https://i.imgur.com/Gyoxw5x.jpg"
+    },
+    {
+      "id": "2",
+      "user": "smith",
+      "tweets": "580",
+      "followers": "20000",
+      "avatar": "https://i.imgur.com/P6SG8oM.jpg"
+    },
+    {
+      "id": "3",
+      "user": "bob johnson",
+      "tweets": "850",
+      "followers": "32000",
+      "avatar": "https://i.imgur.com/8aqWZQw.jpg"
+    }
+  ]
+}
