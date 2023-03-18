@@ -2,8 +2,8 @@ import styled from '@emotion/styled';
 import '@fontsource/montserrat';
 import { ReactComponent as Icon } from '../../img/Logo.svg';
 import { ReactComponent as Picture } from '../../img/picture.svg';
-import { ReactComponent as BoyAvatar } from '../../img/BoyAvatar.svg';
-export const Card = styled.div`
+import { ReactComponent as Ellipse } from '../../img/Ellipse.svg';
+export const Card = styled.li`
   position: relative;
   margin: 20px auto;
   width: 380px;
@@ -34,8 +34,21 @@ export const BackgroundIcon = styled(Picture)`
   width: 308px;
   height: 168px;
 `;
-
-export const Avatar = styled(BoyAvatar)`
+export const ImageContainer = styled.div`
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -46%);
+  width: 62px;
+  height: 62px;
+  border-radius: 50%;
+  overflow: hidden;
+`;
+export const Avatar = styled.img`
+  width: 62px;
+  height: 62px;
+`;
+export const EllipseAvatar = styled(Ellipse)`
   position: absolute;
   top: 50%;
   left: 50%;
@@ -43,7 +56,6 @@ export const Avatar = styled(BoyAvatar)`
   width: 80px;
   height: 80px;
 `;
-
 export const TextContainer = styled.div`
   text-align: center;
   margin-top: 62px;

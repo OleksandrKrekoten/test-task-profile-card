@@ -21,8 +21,7 @@ export const Button = styled.button`
 
   box-shadow: 0px 3.43693px 3.43693px rgba(0, 0, 0, 0.25);
   transition: all 0.3s ease;
-  &:hover,
-  &:focus {
+  &:hover {
     background-color: ${props => (props.isSubscribed ? ' #49a886' : '#bcaccc')};
   }
 `;

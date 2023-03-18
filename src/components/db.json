@@ -4,22 +4,22 @@
       "id": "1",
       "user": "john",
       "tweets": "777",
-      "followers": "150000",
-      "avatar": "https://i.imgur.com/Gyoxw5x.jpg"
+      "followers": 150000,
+      "avatar": "https://ik.imagekit.io/dqs5dhaf3/Group_1_Xtn2fGwsw.svg?updatedAt=1679142662744"
     },
     {
       "id": "2",
       "user": "smith",
       "tweets": "580",
-      "followers": "20000",
-      "avatar": "https://i.imgur.com/P6SG8oM.jpg"
+      "followers": 20000,
+      "avatar": "https://ik.imagekit.io/dqs5dhaf3/avatar_Vd5jMiW3R.svg?updatedAt=1678962967614"
     },
     {
       "id": "3",
       "user": "bob johnson",
       "tweets": "850",
-      "followers": "32000",
-      "avatar": "https://i.imgur.com/8aqWZQw.jpg"
+      "followers": 32000,
+      "avatar": "https://ik.imagekit.io/dqs5dhaf3/avatar-svgrepo-com__1__qlCvsRCgZ.svg?updatedAt=1679142815390"
     }
   ]
 }
