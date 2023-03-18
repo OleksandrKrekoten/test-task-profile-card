@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/test-task-profile-card/static/css/main.27985182.css",
-    "main.js": "/test-task-profile-card/static/js/main.e50356d9.js",
-    "static/media/BoyAvatar.svg": "/test-task-profile-card/static/media/BoyAvatar.5fc5d861e31c0c2ce55365ae7f7d9072.svg",
+    "main.js": "/test-task-profile-card/static/js/main.42223fe9.js",
     "static/media/picture.svg": "/test-task-profile-card/static/media/picture.23dcbc3cc8ccc9682f24b4acffb5efb2.svg",
     "static/media/montserrat-all-400-normal.woff": "/test-task-profile-card/static/media/montserrat-all-400-normal.327fab0afc997a2d9b16.woff",
     "static/media/montserrat-latin-400-normal.woff2": "/test-task-profile-card/static/media/montserrat-latin-400-normal.acb6629fe45c43ad5d8b.woff2",
@@ -11,13 +10,14 @@
     "static/media/montserrat-cyrillic-400-normal.woff2": "/test-task-profile-card/static/media/montserrat-cyrillic-400-normal.e5c5c19c23e370a342c8.woff2",
     "static/media/Logo.svg": "/test-task-profile-card/static/media/Logo.e917114d7945c04c85a8946a331d28b6.svg",
     "static/media/montserrat-vietnamese-400-normal.woff2": "/test-task-profile-card/static/media/montserrat-vietnamese-400-normal.8f3f4c99eb0eeb5990f1.woff2",
+    "static/media/Ellipse.svg": "/test-task-profile-card/static/media/Ellipse.77f9a8484aa5bbe7fb8d02de00904a21.svg",
     "static/media/Rectangle.svg": "/test-task-profile-card/static/media/Rectangle.3dc889ed819cc56238bce43c61f74ccc.svg",
     "index.html": "/test-task-profile-card/index.html",
     "main.27985182.css.map": "/test-task-profile-card/static/css/main.27985182.css.map",
-    "main.e50356d9.js.map": "/test-task-profile-card/static/js/main.e50356d9.js.map"
+    "main.42223fe9.js.map": "/test-task-profile-card/static/js/main.42223fe9.js.map"
   },
   "entrypoints": [
     "static/css/main.27985182.css",
-    "static/js/main.e50356d9.js"
+    "static/js/main.42223fe9.js"
   ]
 }
